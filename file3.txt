@@ -1,1 +1,3 @@
 file3
+
+Here's a test of pushing during commit
