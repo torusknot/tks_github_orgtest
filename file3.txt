@@ -2,3 +2,4 @@ file3
 
 Here's a test of pushing during commit
 Trying again
+Push a change with changes in remote
