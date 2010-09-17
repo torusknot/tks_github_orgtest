@@ -2,3 +2,5 @@ file3
 
 Here's a test of pushing during commit
 Trying again
+
+Working copy 2 change, different file
