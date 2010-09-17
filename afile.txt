@@ -7,3 +7,4 @@ A change on anewbranch
 Separate change in master
 
 Modifying from working copy 1
+Another wc 2 change
