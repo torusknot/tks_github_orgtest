@@ -4,3 +4,4 @@ Here's a test of pushing during commit
 Trying again
 Push a change with changes in remote
 Working copy 2 change, different file
+New branch change
