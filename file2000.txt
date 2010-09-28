@@ -3,3 +3,6 @@ A file, yes
 Making a change from working copy 2
 
 Another change
+askdjf ajdhfa
+sdf
+a
