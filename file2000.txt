@@ -1,5 +1,7 @@
 A file, yes
 
+Staged change
+Local change
 Making a change from working copy 2
 
 Another change
