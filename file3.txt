@@ -6,3 +6,7 @@ Push a change with changes in remote
 Working copy 2 change, different file
 
 lhahfo
+sdf
+
+sadf
+a
