@@ -1,4 +1,5 @@
 Starting off with a simple file
+Test
 Modifying to check the index status
 Something newjj
 A merge change
@@ -10,3 +11,4 @@ Modifying from working copy 1
 Another wc 2 change
 
 ,sabd kfljg aug afa
+Test2
