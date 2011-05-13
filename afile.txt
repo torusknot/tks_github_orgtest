@@ -1,3 +1,4 @@
+test2
 Starting off with a simple file
 Modifying to check the index status
 Something newjj
@@ -10,3 +11,4 @@ Modifying from working copy 1
 Another wc 2 change
 
 ,sabd kfljg aug afa
+test
