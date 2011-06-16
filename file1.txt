@@ -1,0 +1,19 @@
+sdjkfgad
+This is file number 1
+
+askjdfak
+a
+sdfa:wq
+
+Modified file
+Change on new branch
+
+Testing push
+
+Now making some changes in second copy
+
+dfad
+d
+
+Testing commit & push
+Conflict resolved
