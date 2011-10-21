@@ -1,5 +1,6 @@
 sdjkfgad
 This is file number 1
+Another conflict
 
 askjdfak
 a
