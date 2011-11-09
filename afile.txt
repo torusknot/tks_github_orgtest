@@ -2,6 +2,7 @@ Starting off with a simple file
 Test
 Modifying to check the index status
 Something newjj
+A commit to trigger push dialog
 A merge change
 Something to genuinely merge this time
 A change on anewbranch
