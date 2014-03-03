@@ -7,3 +7,5 @@ Working copy 2 change, different file
 
 lhahfo
 Test multi-line comment
+
+Testing a new change
