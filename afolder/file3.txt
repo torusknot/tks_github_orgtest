@@ -1,4 +1,7 @@
-askjdfglsdkgffile3
+askjdfglsdkgf
+d
+fadfz
+file3
 
 Here's a test of pushing during commit
 Trying again
